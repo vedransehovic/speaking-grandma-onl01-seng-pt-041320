@@ -16,7 +16,7 @@ isay="HI! YOU GRANDMA!" #my variable
 
 def speak_to_grandma(phrase)
   if phrase == "I LOVE YOU GRANDMA!"
-    return "HUH?! SPEAK UP, SONNY!"
+    return "I LOVE YOU TOO PUMPKIN!"
   elsif phrase == phrase.upcase
     return "NO, NOT SINCE 1938!"
   else 
