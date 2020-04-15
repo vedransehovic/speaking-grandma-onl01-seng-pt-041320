@@ -12,10 +12,10 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-isay="HI! I LOVE YOU GRANDMA!" #my variable
+isay="" #my variable
 
 def speak_to_grandma(phrase)
-  if phrase == ""
+  if phrase == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
     return "I LOVE YOU TOO PUMPKIN!"
   elsif phrase == phrase.upcase
