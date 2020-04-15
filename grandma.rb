@@ -12,7 +12,7 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-isay="I LOVE YOU GRANDMA!" #my variable
+isay="I misss you" #my variable
 
 def speak_to_grandma(phrase)
   if phrase == "I LOVE YOU GRANDMA!"
